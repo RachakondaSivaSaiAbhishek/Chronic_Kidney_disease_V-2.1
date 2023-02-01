@@ -3,3 +3,8 @@ We have used a Machine learning approach for predicting if a patient has CKD. Th
 
 The dataset can be download from Kaggle and other  Machine Learning Repository.
 
+We have used FLASK for deployment in localhost that takes 24 attributes of Chronic Kidney disease for Binary classification.
+
+
+
+
